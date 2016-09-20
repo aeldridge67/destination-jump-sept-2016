@@ -1,0 +1,180 @@
+body {
+	background-color: #081538;
+}
+
+h1 {
+	margin: 0px;
+	padding-top: 20px;
+}
+
+img, media {
+  max-width: 100%;
+}
+  
+header.l-header,
+footer.l-footer-wrapper,
+.l-region--navigation,
+.l-region--header,
+/* #block-block-2, */
+#block-block-3 {
+  background-color: #85c04b !important;
+}
+
+.l-region,
+.l-main {
+	background-color: #FFF;
+}
+
+.l-main {
+	padding-left: 10px;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.l-region.l-region--branding {
+	position: relative;
+}
+
+.site-branding__logo > img {
+	margin-bottom: 15px;
+}
+
+/* NICE MENUS */
+#nice-menu-1 {
+	width: 1000px;
+	z-index: 10000;
+/*
+	position: absolute;
+	bottom: 0px;
+*/
+}
+
+ul#nice-menu-1 li a {
+	text-decoration: none;
+}
+
+
+
+/* SUPERFISH */
+#block-superfish-1 {
+	width: 1000px;
+	position: absolute;
+	bottom: 0px;
+}
+
+#block-system-main-menu {
+	position: absolute;
+	bottom: 0px;
+	width: 1000px;
+}
+
+
+
+#block-system-main-menu .menu {
+/* 	clear: both; */
+	margin: 0px;
+	padding: 0 15px;
+}
+
+#block-system-main-menu .menu .leaf {
+	list-style-type: none;
+	list-style-image: none;
+	float: left;
+	margin: 0 15px 5px;
+/* 	background-color: #FFF; */
+	
+	
+}
+
+
+#block-system-main-menu .menu .leaf a {
+	background: rgba(255, 255, 255, 0.7);
+	text-decoration: none;
+	padding: 8px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#block-system-main-menu .menu .leaf a.active {
+	background: rgba(255, 255, 255, 1.0);
+	text-decoration: none;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.l-highlighted-wrapper {
+	padding: 0px !important;
+}
+
+
+ul.bxslider {
+	padding: 0px;
+	margin: 0px;
+}
+
+/* LOCATION BLOCK IN HEADER */
+#block-block-2 {
+	padding-top: 23px;	
+}
+
+#block-block-2 #location-block-left {
+	float: left;
+	padding-right: 10px;
+}
+
+#block-block-2 #location-block-right iframe {
+	border: 1px solid #081538;	
+}
+
+
+/* ATTRACTIONS VIEW */
+.main-attractions-view .views-row {
+	clear: both;
+	margin-bottom: 40px;
+	min-height: 140px;
+}
+
+.main-attractions-view .views-row-1 {
+	margin-top: 20px;
+}
+
+
+.main-attractions-view .views-row .attraction-image-140-thumbnail {
+	float: left;
+	padding-right: 20px;
+}
+
+.main-attractions-view .views-row .attraction-image-140-thumbnail img {
+	border-radius: 5px;
+	border: 1px solid #081538;
+}
+
+.main-attractions-view .views-row .attraction-text {
+	overflow: hidden;
+}
+
+/* FAQs PAGE */
+.views-field-field-faq-question {
+	width: 250px;
+	vertical-align: top;
+	padding: 10px;
+}
+
+.views-field-field-faq-answer p {
+	vertical-align: top;
+	margin: 0px;
+	padding: 10px;	
+}
+
+/* FOOTER */
+footer.l-footer-wrapper {
+	box-shadow: 0px 500px 0px 500px #85c04b;
+}

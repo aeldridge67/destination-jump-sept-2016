@@ -1,0 +1,48 @@
+a.menu-448, ul.links li.menu-448 a {
+  background-image: url(/sites/default/files/styles/thumbnail/public/menu_icons/menu_icon_448.png);
+  padding-left:100px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 43px;
+}
+
+a.menu-468, ul.links li.menu-468 a {
+  background-image: url(/sites/default/files/styles/large/public/menu_icons/menu_icon_468.png);
+  padding-left:220px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 43px;
+}
+
+a.menu-476, ul.links li.menu-476 a {
+  background-image: url(/sites/default/files/styles/large/public/menu_icons/menu_icon_476.png);
+  padding-left:310px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 44px;
+}
+
+a.menu-479, ul.links li.menu-479 a {
+  background-image: url(/sites/default/files/styles/medium/public/menu_icons/menu_icon_479.png);
+  padding-left:220px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 36px;
+}
+
+a.menu-482, ul.links li.menu-482 a {
+  background-image: url(/sites/default/files/styles/large/public/menu_icons/menu_icon_482.png);
+  padding-left:154px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 43px;
+}
+
+a.menu-539, ul.links li.menu-539 a {
+  background-image: url(/sites/default/files/styles/thumbnail/public/menu_icons/menu_icon_539.png);
+  padding-left:100px;
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 43px;
+}
+

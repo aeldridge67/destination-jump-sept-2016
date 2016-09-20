@@ -1,0 +1,5 @@
+<?php
+
+function dj_noparagraphtag_init(){
+		drupal_add_js(drupal_get_path('module', 'dj_noparagraphtag') . '/dj_noparagraphtag.js');   
+}

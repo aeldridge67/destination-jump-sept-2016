@@ -1,0 +1,4 @@
+name = DJ No Paragraph Tag
+description = "Removes P tag from specific images."
+core = 7.x
+package = "Destination Jump"

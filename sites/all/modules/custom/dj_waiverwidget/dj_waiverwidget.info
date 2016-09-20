@@ -1,0 +1,4 @@
+name = DJ Waiver Widget
+description = "Adds JS for Waiver widget at bottom of every page."
+core = 7.x
+package = "Destination Jump"

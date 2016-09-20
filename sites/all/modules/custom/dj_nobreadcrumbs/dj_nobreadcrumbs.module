@@ -1,0 +1,5 @@
+<?php
+
+function dj_nobreadcrumbs_menu_breadcrumb_alter(&$active_trail, $item){
+    $active_trail = array();
+}

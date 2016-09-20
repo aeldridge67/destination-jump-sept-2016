@@ -1,0 +1,4 @@
+name = DJ GMap
+description = "Displaying GMap in Directions sub-page."
+core = 7.x
+package = "Destination Jump"

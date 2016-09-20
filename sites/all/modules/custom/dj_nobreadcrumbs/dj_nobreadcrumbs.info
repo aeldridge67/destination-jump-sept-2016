@@ -1,0 +1,4 @@
+name = DJ No Breadcrumbs
+description = "Removed Breadcrumbs from the entire site."
+core = 7.x
+package = "Destination Jump"

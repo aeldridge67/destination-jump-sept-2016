@@ -1,0 +1,4 @@
+name = DJ Event Title
+description = "Replaces title in node view for DJ Event content types."
+core = 7.x
+package = "Destination Jump"

@@ -1,0 +1,7 @@
+<?php
+
+function dj_event_title_node_view($node, $view_mode, $langcode) {
+  if ($node->type == 'dj_event' && $view_mode == 'full') {
+    drupal_set_title($node->field_dj_event_name['und'][0]['value']);
+  }
+}

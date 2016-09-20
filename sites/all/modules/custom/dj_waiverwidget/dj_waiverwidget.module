@@ -1,0 +1,5 @@
+<?php
+
+function dj_waiverwidget_init(){
+		drupal_add_js(drupal_get_path('module', 'dj_waiverwidget') . '/dj_waiverwidget.js');   
+}
